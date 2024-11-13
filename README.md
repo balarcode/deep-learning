@@ -1,6 +1,6 @@
 # deep-learning
 
-Practical implementation of selected algorithms, concepts and techniques in deep learning applied to various domains or applications.
+Practical implementation of selected algorithms, concepts and techniques in deep learning applied to various domains and applications.
 
 The implementation includes insightful comments and notes for anyone interested in learning.
 
