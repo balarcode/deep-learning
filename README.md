@@ -1,6 +1,6 @@
 # deep-learning
 
-Self-learnt concepts and techniques in deep learning.
+Practical implementation of selected algorithms, concepts and techniques in deep learning applied to various domains or applications.
 
 The implementation includes insightful comments and notes for anyone interested in learning.
 
