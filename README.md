@@ -6,4 +6,6 @@ The implementation includes insightful comments and notes for anyone interested 
 
 ## Citation
 
-This repo has no restrictions and requirements on citation unlike other repos that you might have come across on my GitHub profile. Also, the repo is not open for collaboration.
+Please note that the code and technical details made available are for anyone interested to learn. The repo is not open for collaboration.
+
+If you happen to use the code from this repo, please cite my user name along with link to my profile: https://github.com/balarcode. Thank you!
