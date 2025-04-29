@@ -4,6 +4,8 @@
 
 [1] TensorFlow: https://www.tensorflow.org/learn
 
+[2] scikit-learn API: https://scikit-learn.org/stable/api/index.html
+
 ## Citation
 
 Please note that the code and technical details made available are for educational purposes only. The repo is not open for collaboration.
