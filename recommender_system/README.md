@@ -1,4 +1,8 @@
-# Deep Learning for Recommender System
+## Deep Learning for Recommender System
+
+### References
+
+[1] TensorFlow: https://www.tensorflow.org/learn
 
 ## Citation
 
