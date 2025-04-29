@@ -1,5 +1,7 @@
 ## Deep Learning for Recommender System
 
+Content-based filtering in a recommender system predicts and recommends items for a user. The feature vectors of both the users who are subscribers of the system as well as items are used. Because of such a requirement for a content-based filtering algorithm, engineering good features in order to build feature vectors for commercial recommender systems will become an important task.
+
 ### References
 
 [1] TensorFlow: https://www.tensorflow.org/learn
