@@ -6,6 +6,10 @@
 
 [2] scikit-learn API: https://scikit-learn.org/stable/api/index.html
 
+[3] Python tabulate: https://pypi.org/project/tabulate/
+
+[4] Dataset: https://grouplens.org/datasets/movielens/latest/
+
 ## Citation
 
 Please note that the code and technical details made available are for educational purposes only. The repo is not open for collaboration.
