@@ -16,6 +16,8 @@
 
 [1] Keras Sequential Model: https://keras.io/guides/sequential_model/
 
+[2] TensorFlow API for Python: https://www.tensorflow.org/api_docs/python/tf
+
 ## Citation
 
 Please note that the code and technical details made available are for educational purposes only. The repo is not open for collaboration.
