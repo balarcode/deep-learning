@@ -10,7 +10,9 @@ In this project, an input image is fed to U-Net, a Convolutional Neural Network 
 
 [3] PyTorch Image Model Library for Deep Learning: https://timm.fast.ai
 
-[4] Segmentation Models's PyTorch Documentation : https://smp.readthedocs.io/en/latest/ 
+[4] Segmentation Models's PyTorch Documentation: https://smp.readthedocs.io/en/latest/ 
+
+[5] EfficientNet Model Architecture: https://docs.pytorch.org/vision/main/models/generated/torchvision.models.efficientnet_b0.html, https://pprp.github.io/timm/models/efficientnet/ and https://arxiv.org/pdf/1905.11946
 
 ## Citation
 
