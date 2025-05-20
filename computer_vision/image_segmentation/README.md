@@ -12,7 +12,10 @@ In this project, an input image is fed to U-Net, a Convolutional Neural Network 
 
 [4] Segmentation Models's PyTorch Documentation: https://smp.readthedocs.io/en/latest/ 
 
-[5] EfficientNet Model Architecture: https://docs.pytorch.org/vision/main/models/generated/torchvision.models.efficientnet_b0.html, https://pprp.github.io/timm/models/efficientnet/ and https://arxiv.org/pdf/1905.11946
+[5] EfficientNet Model Architecture:\
+[5.1] https://docs.pytorch.org/vision/main/models/generated/torchvision.models.efficientnet_b0.html \
+[5.2] https://pprp.github.io/timm/models/efficientnet/ \
+[5.3] https://arxiv.org/pdf/1905.11946
 
 [6] Pre-trained weights from ImageNet dataset is used for the creation of Image Segmentation Model. ImageNet dataset: https://www.image-net.org
 
