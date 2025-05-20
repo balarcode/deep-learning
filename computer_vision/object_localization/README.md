@@ -10,6 +10,8 @@ In this project, an input image is fed to a Convolutional Neural Network (CNN) a
 
 [3] PyTorch Image Model Library for Deep Learning: https://timm.fast.ai
 
+[4] EfficientNet Model Architecture: [a] https://docs.pytorch.org/vision/main/models/generated/torchvision.models.efficientnet_b0.html [b] https://pprp.github.io/timm/models/efficientnet/ [c] https://arxiv.org/pdf/1905.11946
+
 ## Citation
 
 Please note that the code and technical details made available are for educational purposes only. The repo is not open for collaboration.
