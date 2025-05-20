@@ -12,6 +12,10 @@
 
 ![Cost](results/cost.png)
 
+### References
+
+[1] Keras Sequential Model: https://keras.io/guides/sequential_model/
+
 ## Citation
 
 Please note that the code and technical details made available are for educational purposes only. The repo is not open for collaboration.
