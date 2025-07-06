@@ -2,11 +2,11 @@
 
 ## Topics
 
-### Handwritten Digit Recognition
+### [Handwritten Digit Recognition](https://github.com/balarcode/deep-learning/tree/main/computer_vision/handwritten_digit_recognition)
 
-### Image Segmentation
+### [Image Segmentation](https://github.com/balarcode/deep-learning/tree/main/computer_vision/image_segmentation)
 
-### Object Localization
+### [Object Localization](https://github.com/balarcode/deep-learning/tree/main/computer_vision/object_localization)
 
 ## Citation
 
