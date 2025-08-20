@@ -1,4 +1,4 @@
-### Image Segmentation
+## Image Segmentation
 
 In this project, an input image is fed to U-Net, a Convolutional Neural Network (CNN) architecture to create image segments also known as image regions. The segmented image is displayed as a grayscale image with the segmented region in white.
 
