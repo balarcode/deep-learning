@@ -8,9 +8,15 @@
 
 [3] PyTorch torchvision Library for Computer Vision: https://docs.pytorch.org/vision/stable/index.html
 
-[4] NumPy - Fundamental Package for Scientific Computing in Python: https://numpy.org
+[4] PyTorch Summary for Models: https://pypi.org/project/torch-summary/
 
-[5] Matplotlib - Visualization with Python: https://matplotlib.org
+[5] PyTorch DataLoader to Wrap Iterable Around the Dataset: https://docs.pytorch.org/docs/stable/data.html
+
+[6] NumPy - Fundamental Package for Scientific Computing in Python: https://numpy.org
+
+[7] Matplotlib - Visualization with Python: https://matplotlib.org
+
+[8] IPython/Jupyter Notebook Progress Bar Decorator for Iterators: https://tqdm.github.io/docs/notebook/
 
 ## Citation
 
