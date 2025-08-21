@@ -8,6 +8,10 @@
 
 [3] PyTorch torchvision Library for Computer Vision: https://docs.pytorch.org/vision/stable/index.html
 
+[4] NumPy - Fundamental Package for Scientific Computing in Python: https://numpy.org
+
+[5] Matplotlib - Visualization with Python: https://matplotlib.org
+
 ## Citation
 
 Please note that the code and technical details made available are for educational purposes only. The repo is not open for collaboration.
