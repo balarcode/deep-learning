@@ -1,6 +1,8 @@
 ## Image Classification
 
-In this project, labeled input image dataset is fed into a fine-tuned EfficientNet-B4 neural network with cross entropy loss function, softmax activation function and Adam optimizer. The baseline EfficientNet-B4 model is fine-tuned in the classifier layer (i.e. the last layer) to solve a multi-class classification problem. The output from softmax activation function is a probability of each input image belonging to a specific class. In the project, two classes are considered and prediction or inference from the trained model will output a predicted image class probability. Image classification is a fundamental task in computer vision followed by image (object) localization, object detection and image segmentation tasks.
+In this project, labeled input image dataset is fed into a fine-tuned EfficientNet-B4 neural network with cross entropy loss function, softmax activation function and Adam optimizer. The baseline EfficientNet-B4 model is fine-tuned in the classifier layer (i.e. the last layer) to solve a multi-class classification problem. The output from softmax activation function is a probability of each input image belonging to a specific class. In the project, two classes are considered and prediction or inference from the trained model will output a predicted image class probability. 
+
+Image classification is a fundamental task in computer vision followed by image (object) localization, object detection and image segmentation tasks. Refer to projects on object localization and image segmentation in the same repo for more details on those computer vision tasks.
 
 ### References
 
