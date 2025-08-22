@@ -2,6 +2,8 @@
 
 In this project, an input image is fed to U-Net, a Convolutional Neural Network (CNN) architecture to create image segments also known as image regions. The segmented image is displayed as a grayscale image with the segmented region in white.
 
+Image segmentation is a digital image processing algorithm that partitions an image into multiple distinct image regions or "image segments" in order to simplify image's representation for more meaningful analysis. For computer vision, it enables machines to understand and interpret visual data for applications in medical imaging, robotics and self-driving cars.
+
 ### References
 
 [1] scikit-learn API: https://scikit-learn.org/stable/api/index.html
