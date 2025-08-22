@@ -1,6 +1,8 @@
 ## Object Localization
 
-In this project, an input image is fed to a Convolutional Neural Network (CNN) architecture such EfficientNet, ResNet, etc. which is built to find the location of an object within the input image to complete the object localization task. The localized object is then represented within a bounding box.
+In this project, an input image is fed to a Convolutional Neural Network (CNN) architecture such EfficientNet, ResNet, etc. which is built to find the location of an object within the input image to complete the object localization task. The localized object is then represented within a bounding box also known as a localizaton anchor.
+
+Object localization in computer vision is the task of identifying the precise location of an object within an image or video, often by drawing a bounding box around it. It feeds into object detection task that combines both object localization and object classification to apply bounding box coordinates and class labels for each of the detected objects within an image or video.
 
 ### References
 
