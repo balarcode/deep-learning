@@ -4,6 +4,8 @@ Handwritten digit recognition is a multiclass classification problem in machine 
 
 In this project, a labeled dataset is considered as a training dataset in order to build a sequential model in the neural network. The neural network is architected to include two hidden layers with ReLU activation and one output layer with linear activation.
 
+For the given dataset of size = N x D, "N" is the number of data points or training examples in the dataset and "D" is the dimension of the data point in the dataset. For the handwritten digit recognition problem, the dimension of the dataset will be sqrt(D) pixels X sqrt(D) pixels for each of the images in the dataset.
+
 ### Training Dataset with Labels
 
 ![Training Dataset](results/labeled_data.png)
